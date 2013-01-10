@@ -3,4 +3,4 @@ jquery.daterange
 
 Date range plugin to jquery
 
-JSFiddle example: http://jsfiddle.net/fC82q/
+JSFiddle example: http://jsfiddle.net/fC82q/1/
